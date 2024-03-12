@@ -1,0 +1,55 @@
+- ## Read the file
+
+	- cat file_name
+
+		- it helps to read the content of file
+
+- ## Determining OS
+
+	- cd / 
+
+	- cd etc
+
+	- ls
+
+	- cat os-release
+
+		- this helps to know to version of our operating system and also which OS is installed
+
+- ## To create a directory
+
+	- mkdir file_name
+
+		- this create a new folder
+
+- ## To remove a file
+
+	- rm filre_name
+
+- ## To remove a folder
+
+	- rm -r folder_name
+
+- ## To copy a file
+
+	- cp old_file_name destination_file_name
+
+- ## To copy a folder
+
+	- cp -r old_folder_name destination_folder_name
+
+- ## To move any file or folder
+
+	- mv old_file_name _new_file_name
+
+- ## To install/delete in fedora
+
+	- sudo dnf software_name
+
+	- sudo dnf remove software_name
+
+- ## To view hidden files/folders
+
+	- ls -la
+
+-
